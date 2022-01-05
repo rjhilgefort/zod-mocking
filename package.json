@@ -1,6 +1,6 @@
 {
   "name": "@rjhilgefort/zod-mocking",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "license": "MIT",
   "description": "Generate valid or invalid mocks for your tests, directly from your zod models",
   "author": {
